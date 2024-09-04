@@ -8,9 +8,9 @@ This repository contains Jupyter noteboos used in the Data Analysis exercises in
 Exercises includes the following activities:  
 
 **Data cleaning**:  
--Handling missing Values
--Removing Duplicates
-- Datatype Issues
+-Handling missing Values  
+-Removing Duplicates  
+-Datatype Issues
 
 **Correlation Charts**:  
 -Correlation Matrix  
@@ -24,7 +24,7 @@ Exercises includes the following activities:
 -Regression with differents variables   
 
 **Machine Learning Part 2**:  
--The elbow technique
+-The elbow technique  
 -k-means clustering 
 
 **Sourcing & Analyzing Time-Series Data**:  
@@ -35,5 +35,5 @@ Exercises includes the following activities:
 
 **Link to Data Visualization**: https://public.tableau.com/app/profile/marcia.hereida/viz/Immigrants_17244953467830/Immigrants?publish=yes 
    
-##Portafolio##  
+**Portafolio**  
 PDF File contains the Portafolio
